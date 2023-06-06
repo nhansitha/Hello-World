@@ -4,4 +4,4 @@ This is hansitha, i am working as QA engineer from past 3 and half years.
 Coming to my technologies i use selenium for my scripting with java.
 
 
-This is from krishna
+This is from krishna and Hani
